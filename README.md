@@ -6,26 +6,26 @@ This repository contains a comprehensive manual testing suite for the SOAP-based
 📌 Key Features:
 
    🧪 30+ manually executed test cases using Postman:
-        1. Valid ISBN-10 (with and without hyphens).
-        2. ISBNs ending with 'X' as checksum.
-        3. Invalid inputs (short/long, special characters, alphabetic, alphanumeric).
-        4. Negative scenarios: empty, null, missing headers, malformed body.
+        - Valid ISBN-10 (with and without hyphens).
+        - ISBNs ending with 'X' as checksum.
+        - Invalid inputs (short/long, special characters, alphabetic, alphanumeric).
+        - Negative scenarios: empty, null, missing headers, malformed body.
         
   📬 Built entirely with Postman using the Desktop Agent.
   ✅ Validates response payloads and HTTP status codes (200, 400, 415, 500).
   🧾 Custom SOAPAction headers and raw XML request bodies configured manually.
 
 📂 Repository Structure:
-    /TestCases/ → XLSX file with detailed test cases (TC001–TC034)
-    /Postman_Setup/ → Sample screenshots and header configuration
-    /SOAP_Requests/ → Raw XML payloads for various ISBN scenarios
-    /Docs/ → Test Plan, WSDL reference, and result analysis
+   - /TestCases/ → XLSX file with detailed test cases (TC001–TC034)
+   - /Postman_Setup/ → Sample screenshots and header configuration
+   - /SOAP_Requests/ → Raw XML payloads for various ISBN scenarios
+   - /Docs/ → Test Plan, WSDL reference, and result analysis
 
 🛠 Tools & Technologies:
-    1. Postman (Desktop App)
-    2. SOAP protocol (1.1)
-    3. XML + WSDL analysis
-    4. Manual test execution & logging in Excel
+    - Postman (Desktop App)
+    - SOAP protocol (1.1)
+    - XML + WSDL analysis
+    - Manual test execution & logging in Excel
 
 🧑‍💻 How to Run:
    1. Clone this repository locally.
@@ -41,6 +41,6 @@ This repository contains a comprehensive manual testing suite for the SOAP-based
    7. Log your result in the /TestCases sheet.
 
 📌 Ideal For:
-    1. QA/Test Engineers practicing manual API validation.
-    2. Demonstrating SOAP testing skills using modern tools like Postman.
-    3. Creating baseline functional coverage for legacy web services.
+    - QA/Test Engineers practicing manual API validation.
+    - Demonstrating SOAP testing skills using modern tools like Postman.
+    - Creating baseline functional coverage for legacy web services.
