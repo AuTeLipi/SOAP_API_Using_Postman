@@ -17,7 +17,7 @@ The SOAP operation used in this project is accessible here:
         
   📬 Built entirely with Postman using the Desktop Agent.
   ✅ Validates response payloads and HTTP status codes (200, 400, 415, 500).
-  🧾 Custom SOAPAction headers and raw XML request bodies configured manually.
+  🧾 Raw XML request bodies configured manually.
 
 📂 Repository Structure:
    - /TestCases/ → XLSX file with detailed test cases (TC001–TC034)
