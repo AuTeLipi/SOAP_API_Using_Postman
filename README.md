@@ -5,11 +5,11 @@ This repository contains a comprehensive manual testing suite for the SOAP-based
 
 📌 Key Features:
 
-   🧪 30+ manually executed test cases using Postman:
-        - Valid ISBN-10 (with and without hyphens).
-        - ISBNs ending with 'X' as checksum.
-        - Invalid inputs (short/long, special characters, alphabetic, alphanumeric).
-        - Negative scenarios: empty, null, missing headers, malformed body.
+🧪 30+ manually executed test cases using Postman:
+   - Valid ISBN-10 (with and without hyphens).
+   - ISBNs ending with 'X' as checksum.
+   - Invalid inputs (short/long, special characters, alphabetic, alphanumeric).
+   - Negative scenarios: empty, null, missing headers, malformed body.
         
   📬 Built entirely with Postman using the Desktop Agent.
   ✅ Validates response payloads and HTTP status codes (200, 400, 415, 500).
