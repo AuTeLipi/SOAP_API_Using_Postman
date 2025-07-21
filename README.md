@@ -31,14 +31,14 @@ This repository contains a comprehensive manual testing suite for the SOAP-based
    1. Clone this repository locally.
    2. Open Postman and switch to the Desktop Agent.
    3. Set request type to POST and enter this endpoint:
-   4. https://webservices.daehosting.com/services/isbnservice.wso
-   5. Under Headers, set:
+      - https://webservices.daehosting.com/services/isbnservice.wso
+   4. Under Headers, set:
         - Content-Type: text/xml; charset=utf-8
-   6. Under Body tab:
+   5. Under Body tab:
         - Choose raw and select XML as type.
         - Paste the SOAP envelope from the /SOAP_Requests folder.
-   7. Click Send and verify the boolean response & HTTP status.
-   8. Log your result in the /TestCases sheet.
+   6. Click Send and verify the boolean response & HTTP status.
+   7. Log your result in the /TestCases sheet.
 
 📌 Ideal For:
     1. QA/Test Engineers practicing manual API validation.
