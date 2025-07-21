@@ -41,6 +41,6 @@ This repository contains a comprehensive manual testing suite for the SOAP-based
    7. Log your result in the /TestCases sheet.
 
 📌 Ideal For:
-    - QA/Test Engineers practicing manual API validation.
-    - Demonstrating SOAP testing skills using modern tools like Postman.
-    - Creating baseline functional coverage for legacy web services.
+   - QA/Test Engineers practicing manual API validation.
+   - Demonstrating SOAP testing skills using modern tools like Postman.
+   - Creating baseline functional coverage for legacy web services.
