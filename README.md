@@ -3,9 +3,13 @@
 
 This repository contains a comprehensive manual testing suite for the SOAP-based ISBN validation API (IsValidISBN10) provided by DataFlex Web Services. The objective is to test the correctness, robustness, and behavior of the service using raw XML SOAP requests in Postman.
 
+---
+
 📌 API Endpoint:  
 The SOAP operation used in this project is accessible here:  
 ➡️ [IsValidISBN10 – SOAP Operation](https://webservices.daehosting.com/services/isbnservice.wso?op=IsValidISBN10)  
+
+---
 
 📌 Key Features:
 
@@ -43,6 +47,8 @@ The SOAP operation used in this project is accessible here:
         - Paste the SOAP envelope from the /SOAP_Requests folder.
    6. Click Send and verify the boolean response & HTTP status.
    7. Log your result in the /TestCases sheet.
+
+---
 
 📌 Ideal For:
    - QA/Test Engineers practicing manual API validation.
