@@ -34,10 +34,10 @@ The SOAP operation used in this project is accessible here:
 ---
 
 🛠 Tools & Technologies:
-    - Postman (Desktop App)
-    - SOAP protocol (1.1)
-    - XML + WSDL analysis
-    - Manual test execution & logging in Excel
+- Postman (Desktop App)
+- SOAP protocol (1.1)
+- XML + WSDL analysis
+- Manual test execution & logging in Excel
 
 ---
 
