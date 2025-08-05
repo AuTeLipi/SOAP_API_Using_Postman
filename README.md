@@ -23,17 +23,23 @@ The SOAP operation used in this project is accessible here:
   ✅ Validates response payloads and HTTP status codes (200, 400, 415, 500).
   🧾 Raw XML request bodies configured manually.
 
+---
+
 📂 Repository Structure:
    - /TestCases/ → XLSX file with detailed test cases (TC001–TC034)
    - /Postman_Setup/ → Sample screenshots and header configuration
    - /SOAP_Requests/ → Raw XML payloads for various ISBN scenarios
    - /Docs/ → Test Plan, WSDL reference, and result analysis
 
+---
+
 🛠 Tools & Technologies:
     - Postman (Desktop App)
     - SOAP protocol (1.1)
     - XML + WSDL analysis
     - Manual test execution & logging in Excel
+
+---
 
 🧑‍💻 How to Run:
    1. Clone this repository locally.
